@@ -1,6 +1,8 @@
 # Construct
 WebVR example code - forked from toji's VR-Input example.
-Contains WebGL with GLSL shaders.
+
+> This is an old homework from university.
+> Contains outdated WebGL with GLSL shaders.
 
 ![](./misc/printscreen.png)
 
