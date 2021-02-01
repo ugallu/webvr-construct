@@ -6,7 +6,7 @@ WebVR example code - forked from toji's VR-Input example.
 
 ![](./misc/printscreen.png)
 
-# Usage
+## Usage
 * git clone https://github.com/ugallu/webvr-construct
 * cd webvr-construct
 * python3 -m http.server
@@ -14,3 +14,5 @@ WebVR example code - forked from toji's VR-Input example.
 
 Tested with Chrome Version 88.0.4324.96 (Official Build) (64-bit)
 
+## Dev
+Mainly the fShader.js does the heavylifting, the vShader just paints a quad.
